@@ -1,0 +1,71 @@
+body {
+    
+  }
+  nav {
+    margin-top: -900px;
+    padding:0px;
+    text-align: center;
+    font-family: Raleway;
+    color: #AE7618;
+   }
+  #link-3 {
+    color: #AE7618;
+    text-decoration: none;
+    list-style: none;
+    margin-left: 20px;
+
+    
+  }
+  .link-3 {
+    transition: 0.4s;
+    color: bisque;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 0 10px;
+    margin: 0 10px;
+    font-size: 15px;
+  }
+  H1 {
+    margin-top: -43px;
+    width: 100%;
+    font-size: 280%;
+    font-family: 'Bell MT';
+    font-style: oblique;
+    
+  }
+  .unique {
+    margin-left: 33%;
+    margin-top: 300px;
+    font-size: 130px;
+    color: #AE7618;
+    font-family: 'georgia pro';
+    
+  }
+  .precious {
+    margin-left: 50%;
+    margin-top: -180px;
+    font-size: 150px;
+    color: #AE7618;
+    font-family: 'georgia pro';
+
+  }
+  .tt {
+    height: 150px;
+    margin-left: 36%;
+    margin-top: -9px;
+    
+  }
+  .ttt {
+    height: 150px;
+    margin-left: 73%;
+    margin-top: -360px;
+    margin-bottom: 200px;
+  }
+  .tttt {
+    height: 20px;
+    margin-left: 53%;
+    margin-top: 150px;
+    
+
+  }
+  
